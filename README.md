@@ -7,24 +7,24 @@ Team Members:
 - Preston Borden
 - James Chun
 
-## Project Title:
+Project Title:
 
-## Project Description:
+Project Description:
 Project Description: Our project will utilize the camera on the OpenMV H7 to play "Rock, Paper, Scissors" against a human opponent. The AI will first randomly pick either Rock, Paper, or Scissors then it will detect what choice the human made using its camera and decide whether the human won or lost.
 
-## Key Objectives:
+Key Objectives:
 - Image Classification: Be able to differentiate between rock, paper and scissor based on the photo took from the camera attached to the OpenMV Cam H7
 - Compare different models to look at inference, CPU, GPU usage, etc. to determine which model is the most efficient for OpenMV Cam H7
 
 - Objective 3
 
-## Technology Stack:
+Technology Stack:
 Openmv microcontoller
 
-## Expected Outcomes:
+Expected Outcomes:
 (Describe what you expect to deliver at the end of the project)
 
-## Timeline:
+Timeline:
 (Provide a rough timeline or milestones for the project)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Buol6fpg)
