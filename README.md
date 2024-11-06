@@ -1,12 +1,11 @@
 # AI_Hardware_Project_Template
 
 ## Team Name: 
-(Enter your team name from Canvas)
-
+Liam-Preston-James
 ## Team Members:
-- Student 1
-- Student 2
-- Student 3
+- Liam Colbert
+- Preston Borden
+- James Chun
 
 ## Project Title:
 (Enter your project title - be creative)
