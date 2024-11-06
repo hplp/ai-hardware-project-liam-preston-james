@@ -8,6 +8,7 @@ Team Members:
 - James Chun
 
 Project Title:
+Rock Paper Scissors AI learning tool with image recognition
 
 Project Description:
 Our project will utilize the camera on the OpenMV H7 to play "Rock, Paper, Scissors" against a human opponent. The AI will first randomly pick either Rock, Paper, or Scissors then it will detect what choice the human made using its camera and decide whether the human won or lost.
