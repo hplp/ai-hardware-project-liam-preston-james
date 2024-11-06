@@ -13,7 +13,7 @@ Team Members:
 
 
 ## Key Objectives:
-- Objective 1
+- Image Classification: Be able to differentiate between rock, paper and scissor based on the photo took from the camera attached to the OpenMV Cam H7
 - Objective 2
 - Objective 3
 
