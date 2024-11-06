@@ -21,7 +21,9 @@ Technology Stack:
 Openmv microcontoller, MobileNet-V1, EfficientNet-B4, MobileNet-V3, Laptop for SPI communication interface
 
 Expected Outcomes:
-(Describe what you expect to deliver at the end of the project)
+- Show statistical comparison betweeen different models 
+- Interactive system that can simultaneously take input from the previous games and make changes based on given (fed) data (machine learning)
+
 
 Timeline:
 (Provide a rough timeline or milestones for the project)
