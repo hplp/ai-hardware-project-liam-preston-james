@@ -10,7 +10,7 @@ Team Members:
 ## Project Title:
 
 ## Project Description:
-
+Project Description: Our project will utilize the camera on the OpenMV H7 to play "Rock, Paper, Scissors" against a human opponent. The AI will first randomly pick either Rock, Paper, or Scissors then it will detect what choice the human made using its camera and decide whether the human won or lost.
 
 ## Key Objectives:
 - Image Classification: Be able to differentiate between rock, paper and scissor based on the photo took from the camera attached to the OpenMV Cam H7
