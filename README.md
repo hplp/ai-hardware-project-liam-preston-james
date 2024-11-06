@@ -26,9 +26,9 @@ Expected Outcomes:
 
 
 Timeline:
-Week 1 (11/11 - 11/15): Create models to distinguish between "Rock", "Paper", and "Scissors".
-Week 2 (11/18 - 11/22): Create prediction algorithim to determine what choice the opponent will make based on prior games.
-Post Thanksgiving (11/25 - 11/29): Test the full design with the camera and have it play games. Collect metrics on different models and their usages. 
+- Week 1 (11/11 - 11/15): Create models to distinguish between "Rock", "Paper", and "Scissors".
+- Week 2 (11/18 - 11/22): Create prediction algorithim to determine what choice the opponent will make based on prior games.
+- Post Thanksgiving (11/25 - 11/29): Test the full design with the camera and have it play games. Collect metrics on different models and their usages. 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Buol6fpg)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16852376)
