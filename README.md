@@ -1,6 +1,6 @@
 
 Team Name: 
-Team JPL
+Team Rock Paper Resistor
 
 Team Members:
 - Liam Colbert
