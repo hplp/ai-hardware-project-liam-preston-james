@@ -1,8 +1,8 @@
-# AI_Hardware_Project_Template
+
+Team Name: 
 Team JPL
-## Team Name: 
-Liam-Preston-James
-## Team Members:
+
+Team Members:
 - Liam Colbert
 - Preston Borden
 - James Chun
