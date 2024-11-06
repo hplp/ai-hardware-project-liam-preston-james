@@ -19,7 +19,7 @@ Key Objectives:
 - Be able to take data from previous games, pick a move that has the highest probability of winning.
 
 Technology Stack:
-Openmv microcontoller, MobileNet-V1, EfficientNet-B4, MobileNet-V3, Laptop for SPI communication interface
+Openmv microcontroller, MobileNet-V1, EfficientNet-B4, MobileNet-V3, Laptop for SPI communication interface
 
 Expected Outcomes:
 - Show statistical comparison betweeen different models 
