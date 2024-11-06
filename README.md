@@ -14,7 +14,8 @@ Project Description: Our project will utilize the camera on the OpenMV H7 to pla
 
 ## Key Objectives:
 - Image Classification: Be able to differentiate between rock, paper and scissor based on the photo took from the camera attached to the OpenMV Cam H7
-- Objective 2
+- Compare different models to look at inference, CPU, GPU usage, etc. to determine which model is the most efficient for OpenMV Cam H7
+
 - Objective 3
 
 ## Technology Stack:
