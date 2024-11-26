@@ -23,4 +23,4 @@ We were successfully able to download the IDE from openmv.io for the OpenMV and 
 
 With the ResNet-18 model trained to recognize the hand signals and shrunken down to an int-8 size to fit onto the board, we then attempted to integrate the model and the board for the image recognition that we were looking for. 
 
-The image classification model is currently too large to function and we will need to work on shrinking the model down further to work on the board.
+The image classification model is currently too large to function. We tried shrinking the image training model of ResNet-18 because the truncated TFLite file was still far too large for OpenMV's RAM constraints. Given that ResNet-18 was designed for GPU/CPUs, we will need to find tinier models to train to fit within OpenMV's RAM size. We plan on using smaller models such as MobileNet or lightweight CNNs.
