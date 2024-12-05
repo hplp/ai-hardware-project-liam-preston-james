@@ -39,6 +39,7 @@ Lessons Learned:
   - Limited Quality of data
 
 Key Takeaways: 
+
 The project demonstrated the successful implementation of an image-based AI model using the OpenMV H7 microcontroller, achieving a functional "Rock, Paper, Scissors" game. Through this effort, the team gained valuable insights into human-AI interaction, model training processes, and the constraints of deploying AI in low-power environments. Notably, the trained model achieved an accuracy of 89.7% and demonstrated effective clustering of the classification labels, underscoring the feasibility of deploying machine learning models on resource-constrained devices.
 
 However, the project highlighted several challenges, including the limited memory capacity of the OpenMV H7, which necessitated the use of smaller models such as MobileNetV1, along with quantization and pruning to ensure compatibility. Additionally, the process revealed difficulties in uploading .onnx files to the microcontroller and limitations in camera quality, which affected data collection and model performance. These challenges emphasized the importance of balancing computational efficiency and model accuracy in constrained environments.
