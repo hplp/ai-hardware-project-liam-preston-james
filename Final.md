@@ -50,6 +50,8 @@ We originally used the Kaggle dataset within the Edge Impulse project but quickl
 
 The trained model can be seen in the OpenMVFinalCode folder, the Labels.txt and the trained.tflite files were both transfered to the microcontroller while the RockPaperScissorGame.py was run on the microcontroller through the OpenMV IDE. The python program works by pollnig the camera every 0.5 seconds, taking an image from the camera and then analyzing it to determine if there was a rock, paper, or scissor hand signal in the frame. If three consecutive images are recognized as the same (i.e. Rock, Rock, Rock), then the game will recognize this as an official play and will play this against the random descion that the AI generated. The result of the play is then dispayed in the console (Tie, Win, Lose) and the program carries on. There is a frame recognition portion of the program that will analyize the last 10 plays made by the player to make a smart prediction on what move the player will make.
 
+The video dmeonstration is uploaded to this GitHub as well, that demonstrates the program running in correspondance to the images taken.
+
 **Key Takeaways:**
 
 The project demonstrated the successful implementation of an image-based AI model using the OpenMV H7 microcontroller, achieving a functional "Rock, Paper, Scissors" game. Through this effort, the team gained valuable insights into human-AI interaction, model training processes, and the constraints of deploying AI in low-power environments. Notably, the trained model achieved an accuracy of 89.7% and demonstrated effective clustering of the classification labels, underscoring the feasibility of deploying machine learning models on resource-constrained devices.
